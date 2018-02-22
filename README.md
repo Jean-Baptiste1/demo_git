@@ -1,4 +1,4 @@
-# anniversaire
+# Pour un anniversaire
 
 C'est bientôt l'anniversaire de l'un de vos amis, et vous voulez réaliser une petite "carte" web marrante. Construisez une page contenant un message d'anniversaire évolutif pour votre ami, en utilisant HTML, CSS et jQuery !
  
